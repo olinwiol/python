@@ -1,2 +1,6 @@
 # python
-my work in python
+    📁python
+        └📁euclides
+            └📄euclides.py # GCD-calculator
+
+    
